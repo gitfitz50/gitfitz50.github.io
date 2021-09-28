@@ -7,7 +7,7 @@
 }
 ::selection{
   color: #ffff00;
-  background: hsl(130, 70, 200);
+  background: rgb(130, 70, 200);
 }
 body{
   width: 100%;
